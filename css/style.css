@@ -18,3 +18,20 @@ h1 {
 p {
     font-family: 'Quattrocento Sans', sans-serif;
 }
+
+footer {
+    margin: 20px 0;
+}
+
+.footer i {
+    background: #232323 ;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    color:#ccc;
+    border-radius: 50%;
+}
+
+.footer a {
+    color: #232323; 
+}
